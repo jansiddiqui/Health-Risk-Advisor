@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, send_file
+import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
 import csv
