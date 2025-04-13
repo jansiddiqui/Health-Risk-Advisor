@@ -12,7 +12,6 @@ The system utilizes fuzzy logic rules to classify the risk as **Low**, **Medium*
 ## 🚀 Live Demo
 
 🔗 [Click here to access the live tool](https://health-risk-advisor.onrender.com/) 
-_Replace this link with your deployed app's URL_
 
 ---
 
@@ -21,7 +20,6 @@ _Replace this link with your deployed app's URL_
 A sample of the auto-generated health risk report:
 
 ![Sample Report](report.png)  
-_Replace `path_to_sample_report_image.png` with the actual path after uploading._
 
 ---
 
