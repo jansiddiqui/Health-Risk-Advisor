@@ -20,7 +20,7 @@ _Replace this link with your deployed app's URL_
 
 A sample of the auto-generated health risk report:
 
-![Sample Report](path_to_sample_report_image.png)  
+![Sample Report](report.png)  
 _Replace `path_to_sample_report_image.png` with the actual path after uploading._
 
 ---
